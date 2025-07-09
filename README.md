@@ -37,7 +37,7 @@ src/
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/HtmLuc/nlw-agents-front-end.git
 
 # Entre na pasta do projeto
 cd front-end

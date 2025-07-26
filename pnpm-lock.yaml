@@ -35,6 +35,9 @@ importers:
       lucide-react:
         specifier: ^0.525.0
         version: 0.525.0(react@19.1.0)
+      pt-br:
+        specifier: link:dayjs/locale/pt-br
+        version: link:dayjs/locale/pt-br
       react:
         specifier: ^19.1.0
         version: 19.1.0
@@ -47,6 +50,9 @@ importers:
       react-router-dom:
         specifier: ^7.6.3
         version: 7.6.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      relativeTime:
+        specifier: link:dayjs/plugin/relativeTime
+        version: link:dayjs/plugin/relativeTime
       tailwind-merge:
         specifier: ^3.3.1
         version: 3.3.1

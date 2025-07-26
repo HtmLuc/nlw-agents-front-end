@@ -19,10 +19,12 @@
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
     "lucide-react": "^0.525.0",
+    "pt-br": "link:dayjs/locale/pt-br",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hook-form": "^7.60.0",
     "react-router-dom": "^7.6.3",
+    "relativeTime": "link:dayjs/plugin/relativeTime",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.11",
     "zod": "^4.0.5"
